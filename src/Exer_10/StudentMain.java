@@ -38,7 +38,7 @@ public class StudentMain {
 
     public static void main (String[] args) {
 
-        StudentMain student1 = new StudentMain("Connie", 99);
+        StudentMain student1 = new StudentMain("Lilith", 100);
         
         student1.addCourse("BSIT");
 
