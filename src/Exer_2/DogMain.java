@@ -42,8 +42,8 @@ class Dog {
 public class DogMain {
     public static void main(String[] args) {
         // Create two instances of Dog class using constructor
-        Dog dog1 = new Dog("Buddy", "Golden Retriever");
-        Dog dog2 = new Dog("Max", "German Shepherd");
+        Dog dog1 = new Dog("Lobo", "Poodle");
+        Dog dog2 = new Dog("Messi", "Bulldog");
 
         // Display initial values
         System.out.println("Initial Dog Information:");
@@ -52,8 +52,8 @@ public class DogMain {
         System.out.println();
 
         // Modify attributes using setter methods
-        dog1.setName("Rocky");
-        dog1.setBreed("Labrador");
+        dog1.setName("Jobo");
+        dog1.setBreed("Dalmatian");
 
         dog2.setName("Charlie");
         dog2.setBreed("Bulldog");
