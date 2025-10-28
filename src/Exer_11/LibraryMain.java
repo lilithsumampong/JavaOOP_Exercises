@@ -56,8 +56,8 @@ public class LibraryMain {
 
         LibraryMain shelf = new LibraryMain();
 
-        Book book1 = new Book("The Great Gatsby", "F. Scott Fitzgereald", "001", 1925);
-        Book book2 = new Book("To Kill A MockingBird", "Harper Lee", "002", 1960);
+        Book book1 = new Book("Living Orchestra", "Johny", "001", 1925);
+        Book book2 = new Book("happy days", "Stoie", "002", 1960);
 
         shelf.addBook(book1);
         shelf.addBook(book2);
