@@ -88,7 +88,7 @@ public class AirplaneMain {
 
     public static void main(String[] args) {
 
-        AirplaneMain airplane1 = new AirplaneMain("FL001", "7:00 AM", "England", "On-Time");
+        AirplaneMain airplane1 = new AirplaneMain("FL001", "5:00 AM", "Japan", "On-Time");
 
         airplane1.flightStatus();
         airplane1.delayFlight(airplane1.getDepartureTime(), 1, 30);
