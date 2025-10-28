@@ -35,9 +35,9 @@ public class BookMain {
 
     public static void main(String[] args) {
 
-        BookMain book1 = new BookMain("The Hobbit", "J.R.R Tolkien", "978-0-618-00221-3");
-        BookMain book2 = new BookMain("To Kill a Mockingbird", "Harper Lee", "978-0-06-112008-4");
-        BookMain book3 = new BookMain("Harry Potter", "J.K. Rowling", "978-0-590-35340-3");
+        BookMain book1 = new BookMain("The Family", "Robert", "978-0-618-00221-3");
+        BookMain book2 = new BookMain("Finding Peace", "Escanor", "978-0-06-112008-4");
+        BookMain book3 = new BookMain("Life", "Wilson", "978-0-590-35340-3");
 
         // add 3 books
         addBook(book1);
