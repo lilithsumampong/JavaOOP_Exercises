@@ -28,7 +28,7 @@ public class EmployeeMain {
 
     public static void main (String[] args) {
 
-        EmployeeMain employee1 = new EmployeeMain(" Conrey Dee Manguiran", "Web Developer", 10000);
+        EmployeeMain employee1 = new EmployeeMain(" Lilith Sumampong", "Software Engineer", 10000);
 
         System.out.println("employee1 Monthly Salary: " + employee1.salary);
         System.out.println("employee1 Annual Salary: " + employee1.calculateSalary());
