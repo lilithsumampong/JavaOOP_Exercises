@@ -38,8 +38,8 @@ public class BankMain {
 
     public static void main(String[] args) {
 
-        Account account1 = new Account("Connie Manguiran", "Programmer", 1000);
-        Account account2 = new Account("Carl Manguiran", "Scientist", 2000);
+        Account account1 = new Account("Johnson", "Programmer", 1000);
+        Account account2 = new Account("Magic", "Scientist", 2000);
 
         BankMain bank = new BankMain();
 
